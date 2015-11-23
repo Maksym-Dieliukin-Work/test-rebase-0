@@ -1,10 +1,4 @@
 I have been modified and I am not a .resx file
-<<<<<<< HEAD
-hi
-ho
-bo
-=======
-1
-2
-3
->>>>>>> Test commit
+a
+b
+c
