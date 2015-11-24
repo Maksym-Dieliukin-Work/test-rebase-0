@@ -137,5 +137,8 @@
   </data>
   <data name="Ipsum" xml:space="preserve">
     <value>Ipsum</value>
-  </data>  
+  </data>
+  <data name="Dolor" xml:space="preserve">
+    <value>Dolor</value>
+  </data>   
 </root>
