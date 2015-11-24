@@ -58,25 +58,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="By" xml:space="preserve">
-    <value>a 11</value>
-  </data>
-  <data name="Created" xml:space="preserve">
-    <value>b 22</value>
-  </data>
-  <data name="Edited" xml:space="preserve">
-    <value>c 33</value>
-  </data>
-  <data name="AddedEnding" xml:space="preserve">
-    <value>d 44</value>
-  </data>
-  <data name="TestGH9" xml:space="preserve">
-    <value>e</value>
-  </data>
-  <data name="Test" xml:space="preserve">
-    <value>te-ST test 14</value>
-  </data>
-  <data name="Lorem" xml:space="preserve">
-    <value>Lorem te-ST</value>
-  </data>
 </root>
