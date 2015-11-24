@@ -134,5 +134,8 @@
   </data>
   <data name="Lorem" xml:space="preserve">
     <value>Lorem</value>
+  </data>
+  <data name="Ipsum" xml:space="preserve">
+    <value>Ipsum</value>
   </data>  
 </root>
