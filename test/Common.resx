@@ -122,5 +122,8 @@
   </data>
   <data name="Bb" xml:space="preserve">
     <value>Bb</value>
-  </data>   
+  </data>
+  <data name="Cc" xml:space="preserve">
+    <value>Cc</value>
+  </data>  
 </root>
