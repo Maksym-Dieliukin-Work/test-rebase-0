@@ -119,5 +119,8 @@
   </resheader>
   <data name="Aa" xml:space="preserve">
     <value>Aa</value>
+  </data>
+  <data name="Bb" xml:space="preserve">
+    <value>Bb</value>
   </data>   
 </root>
