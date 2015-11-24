@@ -132,4 +132,7 @@
   <data name="Test" xml:space="preserve">
     <value>test 15</value>
   </data>
+  <data name="Lorem" xml:space="preserve">
+    <value>Lorem</value>
+  </data>  
 </root>
