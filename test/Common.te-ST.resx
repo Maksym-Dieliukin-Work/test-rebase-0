@@ -79,4 +79,7 @@
   <data name="Lorem" xml:space="preserve">
     <value>Lorem te-ST</value>
   </data>
+  <data name="Aa" xml:space="preserve">
+    <value>Aa te-ST</value>
+  </data>
 </root>
