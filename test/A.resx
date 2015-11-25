@@ -126,4 +126,7 @@
   <data name="c" xml:space="preserve">
     <value>c</value>
   </data>
+  <data name="d" xml:space="preserve">
+    <value>d</value>
+  </data>
 </root>
