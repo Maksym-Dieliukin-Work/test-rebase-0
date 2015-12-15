@@ -90,5 +90,8 @@
   </data>
   <data name="k" xml:space="preserve">
     <value>te-ST translation 10</value>
-  </data>  
+  </data>
+  <data name="l" xml:space="preserve">
+    <value>te-ST translation 11</value>
+  </data>    
 </root>
