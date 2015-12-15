@@ -62,13 +62,13 @@
     <value>te-ST translation 00000</value>
   </data>
   <data name="b" xml:space="preserve">
-    <value>te-ST translation 1111</value>
+    <value>te-ST translation 11111</value>
   </data>
   <data name="c" xml:space="preserve">
-    <value>te-ST translation 2222</value>
+    <value>te-ST translation 22222</value>
   </data>
   <data name="d" xml:space="preserve">
-    <value>te-ST translation 3333</value>
+    <value>te-ST translation 33333</value>
   </data>
   <data name="e" xml:space="preserve">
     <value>te-ST translation 44</value>
