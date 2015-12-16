@@ -1,2 +1,4 @@
 I have been modified and I am not a .resx file
 a
+b
+c
