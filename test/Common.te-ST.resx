@@ -80,10 +80,10 @@
     <value>Lorem te-ST</value>
   </data>
   <data name="Aa" xml:space="preserve">
-    <value>Aa te-ST 11 {{foo}} 4</value>
+    <value>Aa te-ST 11 {{foo}} 44</value>
   </data>
   <data name="Bb" xml:space="preserve">
-    <value>Bb te-ST 2 {{fuzz}} 5</value>
+    <value>Bb te-ST 2 {{fuzz}} 55</value>
   </data>
   <data name="Cc" xml:space="preserve">
     <value>Cc te-ST 3</value>
