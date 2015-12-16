@@ -86,7 +86,7 @@
     <value>Bb te-ST 2 {{fuzz}} 55</value>
   </data>
   <data name="Cc" xml:space="preserve">
-    <value>Cc te-ST 33</value>
+    <value>Cc te-ST 33 translated to te-ST</value>
   </data>
   <data name="Dd" xml:space="preserve">
     <value>Dd te-ST 44</value>
