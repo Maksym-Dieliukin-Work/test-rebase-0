@@ -59,16 +59,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="a" xml:space="preserve">
-    <value>te-ST translation 000000</value>
+    <value>te-ST translation 0000000</value>
   </data>
   <data name="b" xml:space="preserve">
-    <value>te-ST translation 111111</value>
+    <value>te-ST translation 1111111</value>
   </data>
   <data name="c" xml:space="preserve">
-    <value>te-ST translation 22222</value>
+    <value>te-ST translation 222222</value>
   </data>
   <data name="d" xml:space="preserve">
-    <value>te-ST translation 333333</value>
+    <value>te-ST translation 3333333</value>
   </data>
   <data name="e" xml:space="preserve">
     <value>te-ST translation 44</value>
